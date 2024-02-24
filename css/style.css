@@ -197,6 +197,7 @@ footer  p{
         width: 200%;
         height: 50vh;
         margin-top: 58%;
+        margin-left: 30%;
         border-radius: 7%;
         box-shadow: 0 0 10px 5px rgb(85, 80, 80);
         
@@ -219,6 +220,7 @@ footer  p{
         background-color: #ffffff;
         width: 200%;
         height: 50vh;
+        margin-left: 40%;
         margin-top: 50%;
         border-radius: 7%;
         box-shadow: 0 0 10px 5px rgb(85, 80, 80);

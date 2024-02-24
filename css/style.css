@@ -189,23 +189,13 @@ footer  p{
 
 @media screen and (max-width: 768px) {
     .container {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
-        grid-template-areas:
-        "input-text input-text"
-        "input-text input-text"
-        "output-text output-text"
-        "output-text output-text"
-        "footer footer";
-        height: 100vh;
         width: auto;
         
     }
     .card{
         background-color: #ffffff;
         width: 75%;
-        height: 70vh;
+        height: 50vh;
         margin-top: 58%;
         border-radius: 7%;
         box-shadow: 0 0 10px 5px rgb(85, 80, 80);
@@ -218,23 +208,13 @@ footer  p{
 
 @media screen and (max-width: 480px) {
     .container {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
-        grid-template-areas:
-        "input-text input-text"
-        "input-text input-text"
-        "output-text output-text"
-        "output-text output-text"
-        "footer footer";
-        height: 100vh;
         width: auto;
         
     }
     .card{
         background-color: #ffffff;
         width: 75%;
-        height: 60vh;
+        height: 50vh;
         margin-top: 50%;
         margin-left: 15%;
         border-radius: 7%;

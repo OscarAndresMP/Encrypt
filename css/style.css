@@ -204,6 +204,10 @@ footer  p{
     footer{
         display: none;
     }
+    #text2{
+        margin-left: 4%;
+        margin-top: 5%;
+    }
 }
 
 @media screen and (max-width: 480px) {
@@ -224,5 +228,8 @@ footer  p{
     footer{
         display: none;
     }
-        
+    #text2{
+        margin-left: 4%;
+        margin-top: 5%;
+    }    
 }

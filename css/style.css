@@ -199,7 +199,7 @@ footer  p{
         "output-text output-text"
         "footer footer";
         height: 100vh;
-        width: 500px;
+        width: auto;
         
     }
     .card{
@@ -211,7 +211,7 @@ footer  p{
         box-shadow: 0 0 10px 5px rgb(85, 80, 80);
         
     }
-    .footer{
+    footer{
         display: none;
     }
 }
@@ -228,7 +228,7 @@ footer  p{
         "output-text output-text"
         "footer footer";
         height: 100vh;
-        width: 470px;
+        width: auto;
         
     }
     .card{
@@ -241,7 +241,7 @@ footer  p{
         box-shadow: 0 0 10px 5px rgb(85, 80, 80);
         
     }
-    .footer{
+    footer{
         display: none;
     }
         

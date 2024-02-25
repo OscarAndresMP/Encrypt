@@ -193,13 +193,10 @@ footer  p{
         
     }
     .card{
-        background-color: #ffffff;
-        width: 200%;
+        width: auto;
         height: 50vh;
         margin-top: 58%;
-        margin-right: 30%;
-        border-radius: 7%;
-        box-shadow: 0 0 10px 5px rgb(85, 80, 80);
+        right: 30%;
         
     }
     footer{
@@ -216,14 +213,11 @@ footer  p{
         width: auto;
         
     }
+    .output-text{
+        width: auto;
+    }
     .card{
-        background-color: #ffffff;
-        width: 200%;
-        height: 50vh;
-        margin-right: 40%;
-        margin-top: 50%;
-        border-radius: 7%;
-        box-shadow: 0 0 10px 5px rgb(85, 80, 80);
+        width: auto;
         
     }
     footer{
